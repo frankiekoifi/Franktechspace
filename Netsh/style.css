@@ -565,5 +565,7 @@
 
 .website__rights{
     color: #fff;
+}
 
+@media screen and (max-width: 800px;){
 }
